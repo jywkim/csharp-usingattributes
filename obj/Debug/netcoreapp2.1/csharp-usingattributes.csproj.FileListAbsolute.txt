@@ -1,0 +1,11 @@
+/home/jonathan/Desktop/jywkim/csharp-usingattributes/bin/Debug/netcoreapp2.1/csharp-usingattributes.deps.json
+/home/jonathan/Desktop/jywkim/csharp-usingattributes/bin/Debug/netcoreapp2.1/csharp-usingattributes.runtimeconfig.json
+/home/jonathan/Desktop/jywkim/csharp-usingattributes/bin/Debug/netcoreapp2.1/csharp-usingattributes.runtimeconfig.dev.json
+/home/jonathan/Desktop/jywkim/csharp-usingattributes/bin/Debug/netcoreapp2.1/csharp-usingattributes.dll
+/home/jonathan/Desktop/jywkim/csharp-usingattributes/bin/Debug/netcoreapp2.1/csharp-usingattributes.pdb
+/home/jonathan/Desktop/jywkim/csharp-usingattributes/obj/Debug/netcoreapp2.1/csharp-usingattributes.csprojAssemblyReference.cache
+/home/jonathan/Desktop/jywkim/csharp-usingattributes/obj/Debug/netcoreapp2.1/csharp-usingattributes.csproj.CoreCompileInputs.cache
+/home/jonathan/Desktop/jywkim/csharp-usingattributes/obj/Debug/netcoreapp2.1/csharp-usingattributes.AssemblyInfoInputs.cache
+/home/jonathan/Desktop/jywkim/csharp-usingattributes/obj/Debug/netcoreapp2.1/csharp-usingattributes.AssemblyInfo.cs
+/home/jonathan/Desktop/jywkim/csharp-usingattributes/obj/Debug/netcoreapp2.1/csharp-usingattributes.dll
+/home/jonathan/Desktop/jywkim/csharp-usingattributes/obj/Debug/netcoreapp2.1/csharp-usingattributes.pdb
